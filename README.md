@@ -8,6 +8,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 - [Biopic](https://github.com/cscluxembourg/vestatech/raw/master/challenges/biopic-challenge/biopic.base64)
 - [Call me from the past](https://github.com/cscluxembourg/vestatech/raw/master/challenges/call-me-from-the-past/final.wav)
+- [Block that Chain! and Block that Flag! challenges](blockchain-5.0-POC/chain)
 
 ### Where to submit your discoveries?
 
