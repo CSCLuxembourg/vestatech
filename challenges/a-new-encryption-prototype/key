@@ -1,0 +1,4 @@
+>>> len(key)
+99
+>>> key[0:33]
+'Lepremierlundidumoisdavrillebourg'
