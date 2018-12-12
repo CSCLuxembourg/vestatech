@@ -6,9 +6,12 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 ## Challenges
 
+### Main Story
+- [_Block that Chain!_ and _Block that Flag!_ challenges](blockchain-5.0-POC/chain)
+
+### Complementary Challenges
 - [Biopic](challenges/biopic-challenge/biopic.base64)
 - [Call me from the past](challenges/call-me-from-the-past/final.wav)
-- [_Block that Chain!_ and _Block that Flag!_ challenges](blockchain-5.0-POC/chain)
 - [The missing piece](challenges/the-missing-piece/)
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine
