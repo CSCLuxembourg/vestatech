@@ -12,6 +12,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 - [The missing piece](challenges/the-missing-piece/)
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine
+- [Key crypting](challenges/key-crypting/secret)
 
 ### Where to submit your discoveries?
 
