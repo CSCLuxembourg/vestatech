@@ -18,6 +18,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine
 - [Key crypting](challenges/key-crypting/secret)
 - [Find the author](challenges/find-the-author/gift.cap)
+- [Sergei](challenges/sergei/Sergei.png)
 
 
 ### Where to submit your discoveries?
