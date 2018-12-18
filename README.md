@@ -8,6 +8,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 ### Main Story
 - [_Block that Chain!_ and _Block that Flag!_ challenges](blockchain-5.0-POC/chain)
+- [A Christmas Gift!](
 
 ### Challenges
 - [Biopic](challenges/biopic-challenge/biopic.base64)
