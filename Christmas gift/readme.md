@@ -4,4 +4,4 @@ Now it seems that this file was not really well secured. I checked recently some
 
 I just love 3D printing...
 
-/3d_Vesta_print.jpg
+!(3d_Vesta_print.jpg)
