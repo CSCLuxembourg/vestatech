@@ -23,3 +23,9 @@ Join us in this imaginative adventure where not everyone will play fair.
 ### Where to submit your discoveries?
 
 - [https://vestatech.cybersecuritychallenge.lu/](https://vestatech.cybersecuritychallenge.lu/)
+
+### Complementary ressources:
+
+- [http://www.vestatech.lu](http://www.vestatech.lu)
+- [Twitter](https://twitter.com/VestaTechSpace)
+- [FaceBook](https://www.facebook.com/VestaTechLuxembourg/)
