@@ -20,6 +20,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 - [Find the author](challenges/find-the-author/gift.cap)
 - [Sergei](challenges/sergei/Sergei.png)
 - [John is participating to the LuxCyberChallenge 2018](challenges/John_is_participating_to_the_LuxCyberChallenge_2018/Archive_18-12-19_08-26-14.har)
+- [2D-encryptor](challenges/2D-encryptor/crypto)
 
 
 ### Where to submit your discoveries?

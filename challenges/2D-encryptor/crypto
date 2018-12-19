@@ -1,0 +1,6 @@
+>>> alpha
+' ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.?,-;|'
+>>> matrix
+[[22, 3, 3, 11], [19, 8, 18, 5], [20, 19, 5, 25], [5, 5, 20, 19]]
+>>> secret
+'3QYQ1-D;54QX8CTR,KZM.MW8VWJW'
