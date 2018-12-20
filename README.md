@@ -23,11 +23,9 @@ Join us in this imaginative adventure where not everyone will play fair.
 - [Vesta asteroid](challenges/Vesta-asteroid/vesta.png)
 - [Sergei](challenges/sergei/Sergei.png)
 
-### Network
+### Misc
 - [Find the author](challenges/find-the-author/gift.cap), the line was not secured.
 - [John is participating to the LuxCyberChallenge 2018](challenges/John_is_participating_to_the_LuxCyberChallenge_2018/Archive_18-12-19_08-26-14.har)
-
-### Misc
 - [Biopic](challenges/biopic-challenge/biopic.base64). The internet is full of people who invented the blockchains or similar technologies. But where is the truth? 
 - [Call me from the past](challenges/call-me-from-the-past/final.wav). If you call me from the past, then you can find who I am.
 
