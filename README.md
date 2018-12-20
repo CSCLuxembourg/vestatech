@@ -14,6 +14,8 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 ## Challenges
 
+By difficulty.
+
 ### ⚝⚝⚝
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
 - [Sergei](challenges/sergei/Sergei.png)
