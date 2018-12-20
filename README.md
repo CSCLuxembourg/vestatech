@@ -20,8 +20,6 @@ Join us in this imaginative adventure where not everyone will play fair.
 - [The missing piece](challenges/the-missing-piece/)
 - [Key crypting](challenges/key-crypting/secret). Think outside the box.
 - [2D-encryptor](challenges/2D-encryptor/crypto)
-
-### Steganography
 - [Vesta asteroid](challenges/Vesta-asteroid/vesta.png)
 - [Sergei](challenges/sergei/Sergei.png)
 
