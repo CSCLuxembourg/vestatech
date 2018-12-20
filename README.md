@@ -16,21 +16,23 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 Sorted by Technology Readiness Level.
 
-### ⚝⚝⚝
+### ⚝⚝⚝⚝
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
-- [Sergei](challenges/sergei/Sergei.png)
+
+### ⚝⚝⚝
+- [Sergei, our chief scientific officer, research](challenges/sergei/Sergei.png)
 - [2D-encryptor](challenges/2D-encryptor/crypto)
 
 
 ### ⚝⚝
 - [Biopic](challenges/biopic-challenge/biopic.base64). The internet is full of people who invented the blockchains or similar technologies. But where is the truth?
 - [Call me from the past](challenges/call-me-from-the-past/final.wav). If you call me from the past, then you can find who I am.
-- [The missing piece](challenges/the-missing-piece/)
+- [A piece of the prototype is missing](challenges/the-missing-piece/)
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine.
 
 
 ### ⚝
-- [Key crypting](challenges/key-crypting/secret). Think outside the box.
+- [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
 - [Find the author](challenges/find-the-author/gift.cap), the line was not secured.
 - [Vesta asteroid](challenges/Vesta-asteroid/vesta.png)
 - [John is participating to the LuxCyberChallenge 2019](challenges/John_is_participating_to_the_LuxCyberChallenge_2019/Archive_18-12-19_08-26-14.har)
@@ -39,7 +41,7 @@ Sorted by Technology Readiness Level.
 
 ## Where to submit your discoveries?
 
-- [https://vestatech.cybersecuritychallenge.lu/](https://vestatech.cybersecuritychallenge.lu)
+- [https://vestatech.cybersecuritychallenge.lu](https://vestatech.cybersecuritychallenge.lu)
 
 
 ## Complementary ressources:
