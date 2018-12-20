@@ -12,9 +12,9 @@ Join us in this imaginative adventure where not everyone will play fair.
 - [A Christmas Gift!](Christmas%20gift/)
 
 
-## Challenges
+## Research
 
-By difficulty.
+Sorted by Technology Readiness Level.
 
 ### ⚝⚝⚝
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
