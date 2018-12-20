@@ -39,4 +39,4 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 - [Official fake website](http://www.vestatech.lu)
 - [Twitter](https://twitter.com/VestaTechSpace)
-- [FaceBook](https://www.facebook.com/VestaTechLuxembourg/)
+- [FaceBook](https://www.facebook.com/VestaTechLuxembourg)
