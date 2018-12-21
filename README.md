@@ -14,7 +14,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 ## Research
 
-Sorted by Technology Readiness Level.
+Sorted by Technology Readiness Level (note: Some research material might be available through other Vestatech communication channels - i.e. the website, social media, ...).
 
 ### :star: :star: :star: :star:
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
