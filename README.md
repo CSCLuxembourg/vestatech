@@ -16,7 +16,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 Sorted by Technology Readiness Level.
 
-### ⚝⚝⚝⚝
+### :star: :star: :star: :star:
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
 
 ### ⚝⚝⚝
