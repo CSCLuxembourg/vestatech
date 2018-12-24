@@ -1,4 +1,4 @@
-I thought alternate data streams were fun... Until I tried the desert from my Aunt. Far too alternative for me.
+<b>I thought alternate data streams were fun...</b> Until I tried the desert from my Aunt. _Far too alternative for me._
 
 More seriously... I was told there was no leak here.
 
