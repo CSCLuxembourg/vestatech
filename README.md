@@ -22,6 +22,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 ### :star: :star: :star:
 - [Sergei, our chief scientific officer, research](challenges/sergei/Sergei.png)
 - [2D-encryptor](challenges/2D-encryptor/crypto)
+- [Christmas_Leak](challenges/Christmas_Leak/readme.md)
 
 
 ### :star: :star:
