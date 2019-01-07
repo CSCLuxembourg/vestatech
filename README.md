@@ -22,15 +22,13 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 ### :star: :star: :star:
 - [Sergei, our chief scientific officer, research](challenges/sergei/Sergei.png)
 - [2D-encryptor](challenges/2D-encryptor/crypto)
-- [Christmas_Leak](challenges/Christmas_Leak)
-
 
 ### :star: :star:
 - [Biopic](challenges/biopic-challenge/biopic.base64). The internet is full of people who invented the blockchains or similar technologies. But where is the truth?
 - [Call me from the past](challenges/call-me-from-the-past/final.wav). If you call me from the past, then you can find who I am.
 - [A piece of the prototype is missing](challenges/the-missing-piece/)
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine.
-
+- [Christmas_Leak](challenges/Christmas_Leak)
 
 ### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
