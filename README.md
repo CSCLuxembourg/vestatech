@@ -29,6 +29,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [A piece of the prototype is missing](challenges/the-missing-piece/)
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine.
 - [Christmas_Leak](challenges/Christmas_Leak)
+- [Radio Star](challenges/Radio_Star) The christmas 2018 promotional video is here!
 
 ### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
