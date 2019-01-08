@@ -1,0 +1,3 @@
+Our Christmas 2018 promotional video is here...
+
+And yes, we made the flag easier (So you should retry again if you failed to catch the last one)
