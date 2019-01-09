@@ -31,6 +31,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Christmas_Leak](challenges/Christmas_Leak)
 - [Radio Star](challenges/Radio_Star) The christmas 2018 promotional video is here!
 - [SecureBox](challenges/SecureBox), a secure private space for all VestaTech members.
+- [Quick Response](challenges/Quick_Response/)
 
 ### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
