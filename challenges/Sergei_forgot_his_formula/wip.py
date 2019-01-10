@@ -41,7 +41,7 @@ class Magic():
 
     def decrypt_int(self, y):
         """Decrypt an integer."""
-        raise Exception('Not implemented. See here: https://en.wikipedia.org/wiki/Magic_(cryptosystem)#Decryption')
+        raise Exception('Not implemented. Note to myself: https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Decryption')
 
 
     def __str__(self):
