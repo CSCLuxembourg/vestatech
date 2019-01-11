@@ -9,4 +9,4 @@
 - A little high, little low <b>_lot's of data_</b>
 - Anyway the wind blows, doesn't really matter to me, to me <b>_exept for that Flag_</b>.
 
-hint: https://www.circl.lu/assets/files/forensics-101.pdf (starting slide 97 perhaps)
+hint: https://www.circl.lu/assets/files/forensics-101.pdf (starting slide 65 perhaps)
