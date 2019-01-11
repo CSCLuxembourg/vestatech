@@ -23,6 +23,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 ### :star: :star: :star:
 - [Sergei, our chief scientific officer, research](challenges/sergei/Sergei.png)
 - [2D-encryptor](challenges/2D-encryptor/crypto)
+- [Post_Christmas_Leak](challenges/Post_Christmas_Leak/)
 
 ### :star: :star:
 - [Biopic](challenges/biopic-challenge/biopic.base64). The internet is full of people who invented the blockchains or similar technologies. But where is the truth?
