@@ -8,3 +8,5 @@
 - Because I'm easy come, easy go <b>_leaking everywhere_</b>
 - A little high, little low <b>_lot's of data_</b>
 - Anyway the wind blows, doesn't really matter to me, to me <b>_exept for that Flag_</b>.
+
+hint: https://www.circl.lu/assets/files/forensics-101.pdf
