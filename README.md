@@ -41,7 +41,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Find the author](challenges/find-the-author/gift.cap), the line was not secured.
 - [Vesta asteroid](challenges/Vesta-asteroid/vesta.png)
 - [John is participating to the LuxCyberChallenge 2019](challenges/John_is_participating_to_the_LuxCyberChallenge_2019/Archive_18-12-19_08-26-14.har)
-- [Old_Protocol](challenges/vestatech/challenges/Old_Protocol/)
+- [Old_Protocol](challenges/Old_Protocol/)
 
 
 
