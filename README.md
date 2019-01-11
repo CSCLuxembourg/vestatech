@@ -18,6 +18,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 
 ### :star: :star: :star: :star:
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
+- [Mess(age) from L-39 plus](challenges/message-from-space/message-from-L-39plus.cap)
 
 ### :star: :star: :star:
 - [Sergei, our chief scientific officer, research](challenges/sergei/Sergei.png)
