@@ -1,10 +1,10 @@
-# Is this the real _data_ life? 
-# Is this just _leaking_ fantasy? 
-# Caught in a landslide _of information_ 
-# No escape from _confidential_ reality 
-# Open your eyes _on the alternate data stream_
-# Look up to the skies and see _password won't be 123456_
-# I'm just a poor boy, I need no sympathy _nor NTFS volumes_
-# Because I'm easy come, easy go _leaking everywhere_
-# A little high, little low _lot's of data_
-# Anyway the wind blows, doesn't really matter to me, to me _exept for that Flag_.
+- Is this the real <b>_data_</b> life? 
+- Is this just <b>_leaking_</b> fantasy? 
+- Caught in a landslide <b>_of zipped information_</b> 
+- No escape from <b>_confidential_</b> reality 
+- Open your eyes <b>_on the alternate data stream_</b>
+- Look up to the skies and see <b>_password won't be 123456_</b>
+- I'm just a poor boy, I need no sympathy <b>_nor NTFS volumes_</b>
+- Because I'm easy come, easy go <b>_leaking everywhere_</b>
+- A little high, little low <b>_lot's of data_</b>
+- Anyway the wind blows, doesn't really matter to me, to me <b>_exept for that Flag_</b>.
