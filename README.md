@@ -32,7 +32,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine.
 - [Christmas_Leak](challenges/Christmas_Leak)
 - [Radio Star](challenges/Radio_Star) The christmas 2018 promotional video is here!
-- [SecureBox](challenges/SecureBox), a secure private space for all VestaTech members.
+- [SecureBox](challenges/SecureBox), a secure private space for all VestaTech members (sometimes analysing the _history_ of some events can be useful).
 - [Quick Response](challenges/Quick_Response/)
 - [Sergei forgot his formula](challenges/Sergei_forgot_his_formula/wip.py)
 
