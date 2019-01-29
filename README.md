@@ -56,5 +56,3 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Official fake website](http://www.vestatech.lu)
 - [Twitter](https://twitter.com/VestaTechSpace)
 - [FaceBook](https://www.facebook.com/VestaTechLuxembourg)
-
-![To the Players](Letter.png)
