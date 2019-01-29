@@ -12,3 +12,5 @@ A hint size 64 is here, should you you not agree that all your base belongs to u
 Good luck!
 
 :-)
+
+ps: many thanks to [Philippe](https://github.com/doegox/) for the original work! 
