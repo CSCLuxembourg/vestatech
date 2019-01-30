@@ -10,11 +10,12 @@ Too late, see yourself as a lessee.
 Nothing money or brokers shan't buy.
 For trojan shadows to grow to an apogee.
 
-
-
 Not a repository will resist.
 Look! All your base encrypted.
 Soon Bitcoins will be requested.
 So as MalwareTech, for this Flag.
 A famous kill switch URL would be a nag.
 To let you drift again free - through the mist.
+
+
+300$ worth of Poetry, M. Farcot
