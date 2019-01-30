@@ -29,17 +29,17 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Biopic](challenges/biopic-challenge/biopic.base64). The internet is full of people who invented the blockchains or similar technologies. But where is the truth?
 - [Call me from the past](challenges/call-me-from-the-past/final.wav). If you call me from the past, then you can find who I am.
 - [A piece of the prototype is missing](challenges/the-missing-piece/)
-- [A new encryption prototype](challenges/a-new-encryption-prototype/secret), our brand new poly-alpha crypto engine.
+- [A new encryption prototype](challenges/a-new-encryption-prototype/secret). Our brand new poly-alpha crypto engine.
 - [Christmas_Leak](challenges/Christmas_Leak)
-- [Radio Star](challenges/Radio_Star) The christmas 2018 promotional video is here!
-- [SecureBox](challenges/SecureBox), a secure private space for all VestaTech members (sometimes analysing the _history_ of some events can be useful).
+- [Radio Star](challenges/Radio_Star). The christmas 2018 promotional video is here!
+- [SecureBox](challenges/SecureBox). A secure private space for all VestaTech members (sometimes analysing the _history_ of some events can be useful).
 - [Quick Response](challenges/Quick_Response/)
 - [Sergei forgot his formula](challenges/Sergei_forgot_his_formula/wip.py)
-- [Poetry makes the world go round](challenges/Poetry/) Wow... such phonosemantics!
+- [Poetry makes the world go round](challenges/Poetry/). Wow... such phonosemantics!
 
 ### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
-- [Find the author](challenges/find-the-author/gift.cap), the line was not secured.
+- [Find the author](challenges/find-the-author/gift.cap). The line was not secured.
 - [Vesta asteroid](challenges/Vesta-asteroid/vesta.png)
 - [John is participating to the LuxCyberChallenge 2019](challenges/John_is_participating_to_the_LuxCyberChallenge_2019/Archive_18-12-19_08-26-14.har)
 - [Old_Protocol](challenges/Old_Protocol/)
