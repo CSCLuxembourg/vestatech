@@ -1,4 +1,4 @@
-# Welcome to my new challenge
+# Welcome to a new challenge
 
 A TIFF file encrypted with military grade AES 128 crypto! Using a pen, can you solve it?
 
