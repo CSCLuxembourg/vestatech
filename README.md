@@ -35,7 +35,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [SecureBox](challenges/SecureBox), a secure private space for all VestaTech members (sometimes analysing the _history_ of some events can be useful).
 - [Quick Response](challenges/Quick_Response/)
 - [Sergei forgot his formula](challenges/Sergei_forgot_his_formula/wip.py)
-- [Poetry makes the world go round](challenges/Poetry/)
+- [Poetry makes the world go round](challenges/Poetry/) Wow... such phonosemantics!
 
 ### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
