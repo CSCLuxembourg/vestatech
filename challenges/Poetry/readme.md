@@ -9,6 +9,7 @@ No complex need for caution.
 Blue eternal tears would impart.
 
 
+
 Here my friend. Click me. 
 
 Should you want to - no need to cry.
@@ -18,6 +19,7 @@ Too late, see yourself as a lessee.
 Nothing money or brokers shan't buy.
 
 For trojan shadows to grow to an apogee.
+
 
 
 Not a repository will resist.
@@ -33,4 +35,5 @@ A famous kill switch URL would be a nag.
 To let you drift again free - through the mist.
 
 
-<b>300$ of Poetry, M. Farcot</b>
+
+# <b>300$ worth of Poetry</b>, _M. Farcot_
