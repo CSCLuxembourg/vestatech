@@ -15,7 +15,7 @@ Look! All your base! Encrypted!
 Brace yourself! Bitcoins requested!
 Now as MalwareTech, search for this Flag.
 As the famous kill switch URL is the nag.
-To let you drift again free - in digital mist.
+To let you drift free - in digital mist.
 
 
 300$ worth of Poetry, M. Farcot
