@@ -1,21 +1,24 @@
-Not a red rose nor a satin heart.
-A Friday was the good option.
-This cunning .js attachment to start.
-Forget complex need for caution.
-Eternal blue tears were soon to impart.
+Neither red rose nor satin heart.
+For Friday was the chosen option.
+Dot js attachments were the start.
+Confusing complex needs for caution.
+Eternal blue tears ready to impart.
 
-Here my friend. No worry - just click me. 
-Should you want to - I promise - you won't cry.
-And too late! Feel yourself as a lessee!
-For nothing money or brokers shan't buy.
-The trojan shadows are at the apogee.
+Traumatic tales of cyberInsecurity.
 
-Not a repository can resist.
-Look! All your base! Encrypted!
-Brace yourself! Bitcoins requested!
-Just as MalwareTech, search for this Flag.
-As the famous kill switch URL is the nag.
-To let you drift free - in this 0 day mist.
+I know you want to - just click me.
+I promise - no tears - I won't cry.
+Yes, my love, you won't break free.
+For trojan shadows darken the sky.
+So just don't let those brokers be.
 
+A little Maryland negative notoriety.
 
-300$ worth of Poetry, M. Farcot
+No repository can resist.
+Your life. Encrypted.
+Bitcoins requested.
+Find the Flag.
+The kill switch URL is the tag.
+To drift in the 0 day mist...
+
+300$ worth of MalwareTech, M. Farcot
