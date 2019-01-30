@@ -4,6 +4,8 @@
 Luxembourgish start-up is in an armsrace with a large international conglomerate to reach
 for and exploit the resources of a close by asteroid.
 
+This is the repository for all of the challenges related to the first edition of the Cyber Security Challenge Luxembourg (season 2018/2019).
+
 Join us in this imaginative adventure where not everyone will play fair.
 
 
