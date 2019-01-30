@@ -44,7 +44,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [John is participating to the LuxCyberChallenge 2019](challenges/John_is_participating_to_the_LuxCyberChallenge_2019/Archive_18-12-19_08-26-14.har)
 - [Old_Protocol](challenges/Old_Protocol/)
 - [FIND me!](challenges/WIFI-Geo-Caching)
-- [AES128Crypto](challenges/SuperCyberSecureCyberHyperCyber)
+- [AES128Crypto](challenges/SuperCyberSecureCyberHyperCyber). Time for some serious hacking!
 
 
 
