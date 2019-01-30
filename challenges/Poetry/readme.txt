@@ -11,11 +11,11 @@ Nothing money or brokers shan't buy.
 For trojan shadows to grow to an apogee.
 
 Not a repository will resist.
-Look! All your base encrypted.
-Soon Bitcoins will be requested.
-So as MalwareTech, for this Flag.
-A famous kill switch URL would be a nag.
-To let you drift again free - through the mist.
+Look! All your base! Encrypted.
+Brace yourself, Bitcoins are requested.
+So as MalwareTech, search for this Flag.
+As a famous kill switch URL would be a nag.
+To let you drift again free - through the digital mist.
 
 
 300$ worth of Poetry, M. Farcot
