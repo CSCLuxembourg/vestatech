@@ -1,4 +1,4 @@
-Not a red rose or a satin heart.
+Not a red rose nor a satin heart.
 A Friday was the good option.
 This cunning .js attachment to start.
 Forget complex need for caution.
