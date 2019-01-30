@@ -1,6 +1,6 @@
 Not a red rose or a satin heart.
 A Friday was the good option.
-A cunning .js attachment to start.
+This cunning .js attachment to start.
 Forget complex need for caution.
 Eternal blue tears were soon to impart.
 
