@@ -12,7 +12,7 @@ Yes, my love, you won't break free.
 For trojan shadows darken the sky.
 So just don't let those brokers be.
 
-Yet again Fort Meade negative notoriety.
+Yet again 3 letter agency negative notoriety.
 
 No repository can resist.
 Your life. Encrypted.
