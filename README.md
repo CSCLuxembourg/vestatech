@@ -38,6 +38,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Quick Response](challenges/Quick_Response/)
 - [Sergei forgot his formula](challenges/Sergei_forgot_his_formula/wip.py)
 - [Poetry makes the world go round](challenges/Poetry/). Wow... such phonosemantics!
+- [help Sergei to reveal the content](challenges/SecureBox/sergei/42andMe-2018.csv.zip)
 
 ### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
