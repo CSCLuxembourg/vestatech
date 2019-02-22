@@ -18,17 +18,27 @@ Join us in this imaginative adventure where not everyone will play fair.
 
 Sorted by Technology Readiness Level <i>(note: Some research material might be available through other Vestatech communication channels - i.e. the website, social media, ...)</i>.
 
-### :star: :star: :star: :star:
+
+### Vestach partners research
+
+#### :star: :star: :star:
+- [Most secure outer-space-grade encryption ever](vestatech_partners_challenges/PwC/most-secure-outer-space-grade-encryption-ever/README.md) from [PwC](https://www.pwc.lu)
+
+
+
+### Vestatech own research
+
+#### :star: :star: :star: :star:
 - [The military grade encryptor](challenges/the-military-grade-encryptor/)
 - [Mess(age) from L-39 plus](challenges/message-from-space/message-from-L-39plus.cap)
 
-### :star: :star: :star:
+#### :star: :star: :star:
 - [Sergei, our chief scientific officer, research](challenges/sergei/Sergei.png)
 - [2D-encryptor](challenges/2D-encryptor/crypto)
 - [Post_Christmas_Leak](challenges/Post_Christmas_Leak/)
 - [A key from the past. Or attack RSA by factoring weak prime modulus](challenges/A_key_from_the_past/)
 
-### :star: :star:
+#### :star: :star:
 - [Biopic](challenges/biopic-challenge/biopic.base64). The internet is full of people who invented the blockchains or similar technologies. But where is the truth?
 - [Call me from the past](challenges/call-me-from-the-past/final.wav). If you call me from the past, then you can find who I am.
 - [A piece of the prototype is missing](challenges/the-missing-piece/)
@@ -41,7 +51,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Poetry makes the world go round](challenges/Poetry/). Wow... such phonosemantics!
 - [help Sergei to reveal the content](challenges/SecureBox/sergei/42andMe-2018.csv.zip)
 
-### :star:
+#### :star:
 - [Key crypting algorithm](challenges/key-crypting/secret). Think outside the box.
 - [Find the author](challenges/find-the-author/gift.cap). The line was not secured.
 - [Vesta asteroid](challenges/Vesta-asteroid/vesta.png)
@@ -49,7 +59,6 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Old_Protocol](challenges/Old_Protocol/)
 - [FIND me!](challenges/WIFI-Geo-Caching)
 - [AES128Crypto](challenges/SuperCyberSecureCyberHyperCyber). Time for some serious hacking!
-
 
 
 ## Where to submit your discoveries?
