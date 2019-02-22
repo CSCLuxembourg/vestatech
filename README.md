@@ -19,7 +19,7 @@ Join us in this imaginative adventure where not everyone will play fair.
 Sorted by Technology Readiness Level <i>(note: Some research material might be available through other Vestatech communication channels - i.e. the website, social media, ...)</i>.
 
 
-### Vestach partners research
+### Vestatech partners research
 
 #### :star: :star: :star:
 - [Most secure outer-space-grade encryption ever](vestatech_partners_challenges/PwC/most-secure-outer-space-grade-encryption-ever/README.md) from [PwC](https://www.pwc.lu)
