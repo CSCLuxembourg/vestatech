@@ -25,6 +25,9 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [Most secure outer-space-grade encryption ever](vestatech_partners_challenges/PwC/most-secure-outer-space-grade-encryption-ever/README.md) from [PwC](https://www.pwc.lu)
 
 
+#### :star: :star:
+- [Yet another blockchain competitor](vestatech_partners_challenges/PwC/yet-another-blockchain/README.md) from [PwC](https://www.pwc.lu)
+
 
 ### Vestatech own research
 
