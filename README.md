@@ -9,6 +9,12 @@ This is the repository for all of the challenges related to the first edition of
 Join us in this imaginative adventure where not everyone will play fair.
 
 
+## Meetups
+
+- [presentation](https://github.com/cedricbonhomme/deconstructing_some_challenges_ECSCL_2019)
+of the first CSCL 2019 meet-up, *deconstructing some challenges*.
+
+
 ## Main Story
 - [_Block that Chain!_ and _Block that Flag!_ challenges](blockchain-5.0-POC/chain)
 - [A Christmas Gift!](Christmas%20gift/)
