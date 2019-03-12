@@ -29,6 +29,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 
 #### :star: :star: :star:
 - [Most secure outer-space-grade encryption ever](vestatech_partners_challenges/PwC/most-secure-outer-space-grade-encryption-ever/README.md) from [PwC](https://www.pwc.lu)
+- [He insisted he played no role](vestatech_partners_challenges/Conostix/He_insisted_he_played_no_role/) from [Conostix](http://www.conostix.com)
 
 
 #### :star: :star:
