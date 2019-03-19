@@ -4,15 +4,13 @@
 Luxembourgish start-up is in an armsrace with a large international conglomerate to reach
 for and exploit the resources of a close by asteroid.
 
-This is the repository for all of the challenges related to the first edition of the Cyber Security Challenge Luxembourg (season 2018/2019).
+This is the repository for all of the challenges related to the first edition of the Cyber Security Challenge Luxembourg (edition 2019).
 
 Join us in this imaginative adventure where not everyone will play fair.
 
+## Where to submit your discoveries?
 
-## Meetups
-
-- [presentation](https://github.com/cedricbonhomme/deconstructing_some_challenges_ECSCL_2019)
-of the first CSCL 2019 meet-up, *deconstructing some challenges*.
+- [https://vestatech.cybersecuritychallenge.lu](https://vestatech.cybersecuritychallenge.lu)
 
 
 ## Main Story
@@ -72,9 +70,10 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 - [AES128Crypto](challenges/SuperCyberSecureCyberHyperCyber). Time for some serious hacking!
 
 
-## Where to submit your discoveries?
+# Meetups
 
-- [https://vestatech.cybersecuritychallenge.lu](https://vestatech.cybersecuritychallenge.lu)
+- [presentation](https://github.com/cscluxembourg/deconstructing_some_challenges_ECSCL_2019)
+of the first CSCL 2019 meet-up, *deconstructing some challenges*.
 
 
 ## Complementary ressources:
