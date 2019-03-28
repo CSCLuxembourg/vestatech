@@ -13,6 +13,10 @@ working for some websites. I still don't know why... Maybe you could
 have a look at the PCAP, you might find something interesting. I will
 inform our external contractors as soon as we have some relevant
 information about the problem. I'm not sorry, we had it coming.
+According to CIRCL, the systems used to mount to attack are still
+online and accessible to anyone. A take down notice has been
+transmitted to the hosting company. It will take some time to
+remove this aberration from the Internet...
 [phone hangup]
 
 
