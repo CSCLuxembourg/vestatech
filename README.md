@@ -33,6 +33,7 @@ Sorted by Technology Readiness Level <i>(note: Some research material might be a
 #### :star: :star:
 - [Yet another blockchain competitor](vestatech_partners_challenges/PwC/yet-another-blockchain/README.md) from [PwC](https://www.pwc.lu)
 - [VBscript analysis](vestatech_partners_challenges/PwC/vbs-analysis/) from [PwC](https://www.pwc.lu)
+- [ACME Sat](vestatech_partners_challenges/GovSat/ACME_Sat/) from [GovSat](https://govsat.lu)
 
 
 ### Vestatech own research
